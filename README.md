@@ -13,8 +13,6 @@ This course provided a comprehensive introduction to **Golang**, covering core c
 - Pointers
 - Concurrency with Goroutines and Channels
 - File Handling
-- Packages and Modules
-- Testing in Go
 
 ## 🛠️ What I Learned
 
@@ -30,14 +28,12 @@ This repo includes:
 
 - `basics/` – Syntax, data types, control flow
 - `functions/` – Custom functions, error handling
-- `structs_interfaces/` – Working with structs and interfaces
-- `concurrency/` – Examples with goroutines and channels
+- `concurrency/` – Examples with goroutines 
 - `file_handling/` – Reading/writing files
-- `projects/` – Mini projects and exercises
 
 ## 🎓 Course Completion
 
-✅ Successfully completed the course with hands-on practice and mini-projects.
+✅ Successfully completed the course with hands-on practice .
 
 > *"Learning Go has been an exciting journey into simplicity, speed, and powerful concurrency!"*
 
